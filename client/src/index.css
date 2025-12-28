@@ -1,0 +1,14 @@
+/* Google font Outfit */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap'); 
+
+@import "tailwindcss";
+
+*{
+  font-family: "Outfit", sans-serif;
+}
+
+/* Chrome, Edge, Safari to hide vertical scrollbar */
+::-webkit-scrollbar {
+  display: none;
+}
+
